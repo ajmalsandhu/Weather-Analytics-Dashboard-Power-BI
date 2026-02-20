@@ -75,7 +75,7 @@ This ensures the dashboard refreshes reliably even if the API returns partial da
 - Structured data model architecture
 - Optimized for scalability
 
----
+--- 
 
 ## Notes
 - The data utilized is for demonstration purposes.
